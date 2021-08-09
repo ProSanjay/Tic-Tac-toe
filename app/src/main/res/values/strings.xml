@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application85</string>
+    <string name="game">Welcome to Tic Tac Toe</string>
+    <string name="grade">our main grade</string>
+    <string name="second_image">second image</string>
+    <string name="third_image">third image</string>
+    <string name="second">second</string>
+    <string name="thirdp">thirdp</string>
+    <string name="kjh">kjh</string>
+    <string name="hfgd">hfgd</string>
+    <string name="x_s_turn_tap_to_play">X\'s turn-Tap to play</string>
+    <string name="restart">Restart</string>
+</resources>
